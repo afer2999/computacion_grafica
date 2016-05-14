@@ -1,0 +1,21 @@
+D:\C_Grafica\FabianYunda\FabianYunda\bin\Debug\FabianYunda.exe.config
+D:\C_Grafica\FabianYunda\FabianYunda\bin\Debug\FabianYunda.exe
+D:\C_Grafica\FabianYunda\FabianYunda\bin\Debug\FabianYunda.pdb
+D:\C_Grafica\FabianYunda\FabianYunda\obj\Debug\FabianYunda.Form1.resources
+D:\C_Grafica\FabianYunda\FabianYunda\obj\Debug\FabianYunda.Properties.Resources.resources
+D:\C_Grafica\FabianYunda\FabianYunda\obj\Debug\FabianYunda.csproj.GenerateResource.Cache
+D:\C_Grafica\FabianYunda\FabianYunda\obj\Debug\FabianYunda.exe
+D:\C_Grafica\FabianYunda\FabianYunda\obj\Debug\FabianYunda.pdb
+D:\C_Grafica\FabianYunda\FabianYunda\obj\Debug\FabianYunda.csprojResolveAssemblyReference.cache
+C:\Users\fabian yunda\Desktop\comu\FabianYunda\FabianYunda\bin\Debug\FabianYunda.exe.config
+C:\Users\fabian yunda\Desktop\comu\FabianYunda\FabianYunda\obj\Debug\FabianYunda.exe
+C:\Users\fabian yunda\Desktop\comu\FabianYunda\FabianYunda\obj\Debug\FabianYunda.pdb
+C:\Users\fabian yunda\Desktop\comu\FabianYunda\FabianYunda\obj\Debug\FabianYunda.csprojResolveAssemblyReference.cache
+C:\Users\fabian yunda\Desktop\comu\FabianYunda\FabianYunda\obj\Debug\FabianYunda.Form1.resources
+C:\Users\fabian yunda\Desktop\comu\FabianYunda\FabianYunda\obj\Debug\FabianYunda.Properties.Resources.resources
+C:\Users\fabian yunda\Desktop\comu\FabianYunda\FabianYunda\obj\Debug\FabianYunda.csproj.GenerateResource.Cache
+C:\Users\fabian yunda\Desktop\comu\FabianYunda\FabianYunda\bin\Debug\FabianYunda.exe
+C:\Users\fabian yunda\Desktop\comu\FabianYunda\FabianYunda\bin\Debug\FabianYunda.pdb
+C:\Users\mrlov_000\Desktop\FabianYunda\FabianYunda\bin\Debug\FabianYunda.exe.config
+C:\Users\mrlov_000\Desktop\FabianYunda\FabianYunda\obj\Debug\FabianYunda.exe
+C:\Users\mrlov_000\Desktop\FabianYunda\FabianYunda\obj\Debug\FabianYunda.pdb

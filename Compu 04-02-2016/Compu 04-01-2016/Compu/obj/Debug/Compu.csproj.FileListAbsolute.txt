@@ -1,0 +1,252 @@
+c:\users\fie\documents\visual studio 2013\Projects\Compu\Compu\bin\Debug\Compu.exe.config
+c:\users\fie\documents\visual studio 2013\Projects\Compu\Compu\bin\Debug\Compu.exe
+c:\users\fie\documents\visual studio 2013\Projects\Compu\Compu\bin\Debug\Compu.pdb
+c:\users\fie\documents\visual studio 2013\Projects\Compu\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+c:\users\fie\documents\visual studio 2013\Projects\Compu\Compu\obj\Debug\Compu.Form1.resources
+c:\users\fie\documents\visual studio 2013\Projects\Compu\Compu\obj\Debug\Compu.Properties.Resources.resources
+c:\users\fie\documents\visual studio 2013\Projects\Compu\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+c:\users\fie\documents\visual studio 2013\Projects\Compu\Compu\obj\Debug\Compu.exe
+c:\users\fie\documents\visual studio 2013\Projects\Compu\Compu\obj\Debug\Compu.pdb
+D:\MARYFI\ESPOCH\Compu\Compu\bin\Debug\Compu.exe.config
+D:\MARYFI\ESPOCH\Compu\Compu\obj\Debug\Compu.exe
+D:\MARYFI\ESPOCH\Compu\Compu\obj\Debug\Compu.pdb
+D:\MARYFI\ESPOCH\Compu\Compu\bin\Debug\Compu.exe
+D:\MARYFI\ESPOCH\Compu\Compu\bin\Debug\Compu.pdb
+D:\MARYFI\ESPOCH\Compu\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+D:\MARYFI\ESPOCH\Compu\Compu\obj\Debug\Compu.Form1.resources
+D:\MARYFI\ESPOCH\Compu\Compu\obj\Debug\Compu.Properties.Resources.resources
+D:\MARYFI\ESPOCH\Compu\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+F:\Projects\Compu\Compu\bin\Debug\Compu.exe.config
+F:\Projects\Compu\Compu\obj\Debug\Compu.exe
+F:\Projects\Compu\Compu\obj\Debug\Compu.pdb
+F:\Projects\Compu\Compu\bin\Debug\Compu.exe
+F:\Projects\Compu\Compu\bin\Debug\Compu.pdb
+F:\Projects\Compu\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+F:\Projects\Compu\Compu\obj\Debug\Compu.Form1.resources
+F:\Projects\Compu\Compu\obj\Debug\Compu.Properties.Resources.resources
+F:\Projects\Compu\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+F:\Projects\Compu - Copy\Compu\bin\Debug\Compu.exe.config
+F:\Projects\Compu - Copy\Compu\obj\Debug\Compu.exe
+F:\Projects\Compu - Copy\Compu\obj\Debug\Compu.pdb
+F:\Projects\Compu - Copy\Compu\bin\Debug\Compu.exe
+F:\Projects\Compu - Copy\Compu\bin\Debug\Compu.pdb
+F:\Projects\Compu - Copy\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+F:\Projects\Compu - Copy\Compu\obj\Debug\Compu.Form1.resources
+F:\Projects\Compu - Copy\Compu\obj\Debug\Compu.Properties.Resources.resources
+F:\Projects\Compu - Copy\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+C:\Users\MaryFi\Desktop\Projects\Compu - Copy\Compu\bin\Debug\Compu.exe.config
+C:\Users\MaryFi\Desktop\Projects\Compu - Copy\Compu\obj\Debug\Compu.exe
+C:\Users\MaryFi\Desktop\Projects\Compu - Copy\Compu\obj\Debug\Compu.pdb
+C:\Users\MaryFi\Desktop\MAFV CLASES\Compu\Compu\bin\Debug\Compu.exe.config
+C:\Users\MaryFi\Desktop\MAFV CLASES\Compu\Compu\obj\Debug\Compu.exe
+C:\Users\MaryFi\Desktop\MAFV CLASES\Compu\Compu\obj\Debug\Compu.pdb
+C:\Users\MaryFi\Desktop\MAFV CLASES\Compu\Compu\bin\Debug\Compu.exe
+C:\Users\MaryFi\Desktop\MAFV CLASES\Compu\Compu\bin\Debug\Compu.pdb
+C:\Users\MaryFi\Desktop\MAFV CLASES\Compu\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+C:\Users\MaryFi\Desktop\MAFV CLASES\Compu\Compu\obj\Debug\Compu.Form1.resources
+C:\Users\MaryFi\Desktop\MAFV CLASES\Compu\Compu\obj\Debug\Compu.Properties.Resources.resources
+C:\Users\MaryFi\Desktop\MAFV CLASES\Compu\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+C:\Users\MaryFi\Desktop\Compu\Compu\bin\Debug\Compu.exe.config
+C:\Users\MaryFi\Desktop\Compu\Compu\obj\Debug\Compu.exe
+C:\Users\MaryFi\Desktop\Compu\Compu\obj\Debug\Compu.pdb
+C:\Users\MaryFi\Desktop\Compu\Compu\bin\Debug\Compu.exe
+C:\Users\MaryFi\Desktop\Compu\Compu\bin\Debug\Compu.pdb
+C:\Users\MaryFi\Desktop\Compu\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+C:\Users\MaryFi\Desktop\Compu\Compu\obj\Debug\Compu.Form1.resources
+C:\Users\MaryFi\Desktop\Compu\Compu\obj\Debug\Compu.Properties.Resources.resources
+C:\Users\MaryFi\Desktop\Compu\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+F:\MEDIANTE EL MOUSE\Compu\Compu\bin\Debug\Compu.exe.config
+F:\MEDIANTE EL MOUSE\Compu\Compu\obj\Debug\Compu.exe
+F:\MEDIANTE EL MOUSE\Compu\Compu\obj\Debug\Compu.pdb
+F:\MEDIANTE EL MOUSE\Compu\Compu\bin\Debug\Compu.exe
+F:\MEDIANTE EL MOUSE\Compu\Compu\bin\Debug\Compu.pdb
+F:\MEDIANTE EL MOUSE\Compu\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+F:\MEDIANTE EL MOUSE\Compu\Compu\obj\Debug\Compu.Form1.resources
+F:\MEDIANTE EL MOUSE\Compu\Compu\obj\Debug\Compu.Properties.Resources.resources
+F:\MEDIANTE EL MOUSE\Compu\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+G:\MEDIANTE EL MOUSE\Compu\Compu\bin\Debug\Compu.exe.config
+G:\MEDIANTE EL MOUSE\Compu\Compu\obj\Debug\Compu.exe
+G:\MEDIANTE EL MOUSE\Compu\Compu\obj\Debug\Compu.pdb
+C:\Users\MaryFi\Desktop\REPASOS\2015-11-03\MEDIANTE EL MOUSE\Compu\Compu\bin\Debug\Compu.exe.config
+C:\Users\MaryFi\Desktop\REPASOS\2015-11-03\MEDIANTE EL MOUSE\Compu\Compu\obj\Debug\Compu.exe
+C:\Users\MaryFi\Desktop\REPASOS\2015-11-03\MEDIANTE EL MOUSE\Compu\Compu\obj\Debug\Compu.pdb
+C:\Users\MaryFi\Desktop\REPASOS\2015-11-03\MEDIANTE EL MOUSE\Compu\Compu\bin\Debug\Compu.exe
+C:\Users\MaryFi\Desktop\REPASOS\2015-11-03\MEDIANTE EL MOUSE\Compu\Compu\bin\Debug\Compu.pdb
+C:\Users\MaryFi\Desktop\REPASOS\2015-11-03\MEDIANTE EL MOUSE\Compu\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+C:\Users\MaryFi\Desktop\REPASOS\2015-11-03\MEDIANTE EL MOUSE\Compu\Compu\obj\Debug\Compu.Form1.resources
+C:\Users\MaryFi\Desktop\REPASOS\2015-11-03\MEDIANTE EL MOUSE\Compu\Compu\obj\Debug\Compu.Properties.Resources.resources
+C:\Users\MaryFi\Desktop\REPASOS\2015-11-03\MEDIANTE EL MOUSE\Compu\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+G:\MODIFICADO\Compu\Compu\bin\Debug\Compu.exe.config
+G:\MODIFICADO\Compu\Compu\obj\Debug\Compu.exe
+G:\MODIFICADO\Compu\Compu\obj\Debug\Compu.pdb
+G:\MODIFICADO\Compu\Compu\bin\Debug\Compu.exe
+G:\MODIFICADO\Compu\Compu\bin\Debug\Compu.pdb
+G:\MODIFICADO\Compu\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+G:\MODIFICADO\Compu\Compu\obj\Debug\Compu.Form1.resources
+G:\MODIFICADO\Compu\Compu\obj\Debug\Compu.Properties.Resources.resources
+G:\MODIFICADO\Compu\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+F:\2015-11-05\Compu\Compu\bin\Debug\Compu.exe.config
+F:\2015-11-05\Compu\Compu\obj\Debug\Compu.exe
+F:\2015-11-05\Compu\Compu\obj\Debug\Compu.pdb
+F:\2015-11-05\Compu\Compu\bin\Debug\Compu.exe
+F:\2015-11-05\Compu\Compu\bin\Debug\Compu.pdb
+F:\2015-11-05\Compu\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+F:\2015-11-05\Compu\Compu\obj\Debug\Compu.Form1.resources
+F:\2015-11-05\Compu\Compu\obj\Debug\Compu.Properties.Resources.resources
+F:\2015-11-05\Compu\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+G:\2015-11-05\Compu\Compu\bin\Debug\Compu.exe.config
+G:\2015-11-05\Compu\Compu\obj\Debug\Compu.exe
+G:\2015-11-05\Compu\Compu\obj\Debug\Compu.pdb
+G:\2015-11-05\Compu\Compu\bin\Debug\Compu.exe
+G:\2015-11-05\Compu\Compu\bin\Debug\Compu.pdb
+G:\2015-11-05\Compu\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+G:\2015-11-05\Compu\Compu\obj\Debug\Compu.Form1.resources
+G:\2015-11-05\Compu\Compu\obj\Debug\Compu.Properties.Resources.resources
+G:\2015-11-05\Compu\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+H:\Nueva carpeta\Compu\Compu\bin\Debug\Compu.exe.config
+H:\Nueva carpeta\Compu\Compu\obj\Debug\Compu.exe
+H:\Nueva carpeta\Compu\Compu\obj\Debug\Compu.pdb
+F:\Nueva carpeta\Compu\Compu\bin\Debug\Compu.exe.config
+F:\Nueva carpeta\Compu\Compu\obj\Debug\Compu.exe
+F:\Nueva carpeta\Compu\Compu\obj\Debug\Compu.pdb
+F:\Nueva carpeta\Compu\Compu\bin\Debug\Compu.exe
+F:\Nueva carpeta\Compu\Compu\bin\Debug\Compu.pdb
+F:\Nueva carpeta\Compu\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta\Compu\Compu\obj\Debug\Compu.Form1.resources
+F:\Nueva carpeta\Compu\Compu\obj\Debug\Compu.Properties.Resources.resources
+F:\Nueva carpeta\Compu\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+H:\Nueva carpeta\Compu\Compu\bin\Debug\Compu.exe
+H:\Nueva carpeta\Compu\Compu\bin\Debug\Compu.pdb
+H:\Nueva carpeta\Compu\Compu\bin\Debug\mscorlib.dll
+H:\Nueva carpeta\Compu\Compu\bin\Debug\es\mscorlib.resources.dll
+H:\Nueva carpeta\Compu\Compu\bin\Debug\normidna.nlp
+H:\Nueva carpeta\Compu\Compu\bin\Debug\normnfc.nlp
+H:\Nueva carpeta\Compu\Compu\bin\Debug\normnfd.nlp
+H:\Nueva carpeta\Compu\Compu\bin\Debug\normnfkc.nlp
+H:\Nueva carpeta\Compu\Compu\bin\Debug\normnfkd.nlp
+H:\Nueva carpeta\Compu\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+H:\Nueva carpeta\Compu\Compu\obj\Debug\Compu.Form1.resources
+H:\Nueva carpeta\Compu\Compu\obj\Debug\Compu.Properties.Resources.resources
+H:\Nueva carpeta\Compu\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+F:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\Compu.exe.config
+F:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.exe
+F:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.pdb
+F:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.Form1.resources
+F:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.Properties.Resources.resources
+F:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+F:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\Compu.exe
+F:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\Compu.pdb
+H:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\Compu.exe.config
+H:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.exe
+H:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.pdb
+H:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\Compu.exe
+H:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\Compu.pdb
+H:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\mscorlib.dll
+H:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\es\mscorlib.resources.dll
+H:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\normidna.nlp
+H:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\normnfc.nlp
+H:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\normnfd.nlp
+H:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\normnfkc.nlp
+H:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\normnfkd.nlp
+H:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+H:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.Form1.resources
+H:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.Properties.Resources.resources
+H:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+I:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\Compu.exe.config
+I:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.exe
+I:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.pdb
+I:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\Compu.exe
+I:\Nueva carpeta\Compu 24-11-2015\Compu\bin\Debug\Compu.pdb
+I:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+I:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.Form1.resources
+I:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.Properties.Resources.resources
+I:\Nueva carpeta\Compu 24-11-2015\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+I:\Nueva carpeta\Compu 03-12-2015\Compu\bin\Debug\Compu.exe.config
+I:\Nueva carpeta\Compu 03-12-2015\Compu\obj\Debug\Compu.exe
+I:\Nueva carpeta\Compu 03-12-2015\Compu\obj\Debug\Compu.pdb
+I:\Nueva carpeta\Compu 03-12-2015\Compu\bin\Debug\Compu.exe
+I:\Nueva carpeta\Compu 03-12-2015\Compu\bin\Debug\Compu.pdb
+I:\Nueva carpeta\Compu 03-12-2015\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+I:\Nueva carpeta\Compu 03-12-2015\Compu\obj\Debug\Compu.Form1.resources
+I:\Nueva carpeta\Compu 03-12-2015\Compu\obj\Debug\Compu.Properties.Resources.resources
+I:\Nueva carpeta\Compu 03-12-2015\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+F:\Nueva carpeta\Compu 03-12-2015\Compu\bin\Debug\Compu.exe.config
+F:\Nueva carpeta\Compu 03-12-2015\Compu\obj\Debug\Compu.exe
+F:\Nueva carpeta\Compu 03-12-2015\Compu\obj\Debug\Compu.pdb
+F:\Nueva carpeta\Compu 03-12-2015\Compu\bin\Debug\Compu.exe
+F:\Nueva carpeta\Compu 03-12-2015\Compu\bin\Debug\Compu.pdb
+F:\Nueva carpeta\Compu 03-12-2015\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta\Compu 03-12-2015\Compu\obj\Debug\Compu.Form1.resources
+F:\Nueva carpeta\Compu 03-12-2015\Compu\obj\Debug\Compu.Properties.Resources.resources
+F:\Nueva carpeta\Compu 03-12-2015\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+F:\Nueva carpeta\Compu 07-12-2015\Compu\bin\Debug\Compu.exe.config
+F:\Nueva carpeta\Compu 07-12-2015\Compu\obj\Debug\Compu.exe
+F:\Nueva carpeta\Compu 07-12-2015\Compu\obj\Debug\Compu.pdb
+F:\Nueva carpeta\Compu 07-12-2015\Compu\bin\Debug\Compu.exe
+F:\Nueva carpeta\Compu 07-12-2015\Compu\bin\Debug\Compu.pdb
+F:\Nueva carpeta\Compu 07-12-2015\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta\Compu 07-12-2015\Compu\obj\Debug\Compu.Form1.resources
+F:\Nueva carpeta\Compu 07-12-2015\Compu\obj\Debug\Compu.Properties.Resources.resources
+F:\Nueva carpeta\Compu 07-12-2015\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+I:\Nueva carpeta\Compu 07-12-2015\Compu\bin\Debug\Compu.exe.config
+I:\Nueva carpeta\Compu 07-12-2015\Compu\obj\Debug\Compu.exe
+I:\Nueva carpeta\Compu 07-12-2015\Compu\obj\Debug\Compu.pdb
+I:\Nueva carpeta\Compu 07-12-2015\Compu\bin\Debug\Compu.exe
+I:\Nueva carpeta\Compu 07-12-2015\Compu\bin\Debug\Compu.pdb
+I:\Nueva carpeta\Compu 07-12-2015\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+I:\Nueva carpeta\Compu 07-12-2015\Compu\obj\Debug\Compu.Form1.resources
+I:\Nueva carpeta\Compu 07-12-2015\Compu\obj\Debug\Compu.Properties.Resources.resources
+I:\Nueva carpeta\Compu 07-12-2015\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+D:\flash\Nueva carpeta\Compu 23-12-2015\Compu\bin\Debug\Compu.exe.config
+D:\flash\Nueva carpeta\Compu 23-12-2015\Compu\obj\Debug\Compu.exe
+D:\flash\Nueva carpeta\Compu 23-12-2015\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+D:\flash\Nueva carpeta\Compu 23-12-2015\Compu\obj\Debug\Compu.Form1.resources
+D:\flash\Nueva carpeta\Compu 23-12-2015\Compu\obj\Debug\Compu.Properties.Resources.resources
+D:\flash\Nueva carpeta\Compu 23-12-2015\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+D:\flash\Nueva carpeta\Compu 23-12-2015\Compu\bin\Debug\Compu.exe
+D:\flash\Nueva carpeta\Compu 23-12-2015\Compu\bin\Debug\Compu.pdb
+D:\flash\Nueva carpeta\Compu 23-12-2015\Compu\obj\Debug\Compu.pdb
+F:\COMPUTACIÓN GRAFICA\Compu 23-12-2015\Compu\bin\Debug\Compu.exe.config
+F:\COMPUTACIÓN GRAFICA\Compu 23-12-2015\Compu\obj\Debug\Compu.exe
+F:\COMPUTACIÓN GRAFICA\Compu 23-12-2015\Compu\obj\Debug\Compu.pdb
+F:\Compu 23-12-2015\Compu\bin\Debug\Compu.exe.config
+F:\Compu 23-12-2015\Compu\obj\Debug\Compu.exe
+F:\Compu 23-12-2015\Compu\obj\Debug\Compu.pdb
+F:\Compu 23-12-2015\Compu\bin\Debug\Compu.exe
+F:\Compu 23-12-2015\Compu\bin\Debug\Compu.pdb
+F:\Compu 23-12-2015\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+F:\Compu 23-12-2015\Compu\obj\Debug\Compu.Form1.resources
+F:\Compu 23-12-2015\Compu\obj\Debug\Compu.Properties.Resources.resources
+F:\Compu 23-12-2015\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+C:\Users\FIE\Desktop\Compu 23-12-2015\Compu\bin\Debug\Compu.exe.config
+C:\Users\FIE\Desktop\Compu 23-12-2015\Compu\obj\Debug\Compu.exe
+C:\Users\FIE\Desktop\Compu 23-12-2015\Compu\obj\Debug\Compu.pdb
+C:\Users\FIE\Desktop\Compu 23-12-2015\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+C:\Users\FIE\Desktop\Compu 23-12-2015\Compu\obj\Debug\Compu.Form1.resources
+C:\Users\FIE\Desktop\Compu 23-12-2015\Compu\obj\Debug\Compu.Properties.Resources.resources
+C:\Users\FIE\Desktop\Compu 23-12-2015\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+C:\Users\FIE\Desktop\Compu 23-12-2015\Compu\bin\Debug\Compu.exe
+C:\Users\FIE\Desktop\Compu 23-12-2015\Compu\bin\Debug\Compu.pdb
+F:\Compu 04-01-2016\Compu\bin\Debug\Compu.exe.config
+F:\Compu 04-01-2016\Compu\obj\Debug\Compu.exe
+F:\Compu 04-01-2016\Compu\obj\Debug\Compu.pdb
+F:\Compu 04-01-2016\Compu\bin\Debug\Compu.exe
+F:\Compu 04-01-2016\Compu\bin\Debug\Compu.pdb
+F:\Compu 04-01-2016\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+F:\Compu 04-01-2016\Compu\obj\Debug\Compu.Form1.resources
+F:\Compu 04-01-2016\Compu\obj\Debug\Compu.Properties.Resources.resources
+F:\Compu 04-01-2016\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+C:\Users\mrlov_000\Desktop\Compu 04-01-2016\Compu\bin\Debug\Compu.exe.config
+C:\Users\mrlov_000\Desktop\Compu 04-01-2016\Compu\obj\Debug\Compu.exe
+C:\Users\mrlov_000\Desktop\Compu 04-01-2016\Compu\obj\Debug\Compu.pdb
+C:\Users\mrlov_000\Desktop\Compu 04-01-2016\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+C:\Users\mrlov_000\Desktop\Compu 04-01-2016\Compu\obj\Debug\Compu.Form1.resources
+C:\Users\mrlov_000\Desktop\Compu 04-01-2016\Compu\obj\Debug\Compu.Properties.Resources.resources
+C:\Users\mrlov_000\Desktop\Compu 04-01-2016\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache
+D:\Bladd-PC\Escritorio\NewCompu\Compu 04-02-2016\Compu 04-01-2016\Compu\bin\Debug\Compu.exe.config
+D:\Bladd-PC\Escritorio\NewCompu\Compu 04-02-2016\Compu 04-01-2016\Compu\obj\Debug\Compu.exe
+D:\Bladd-PC\Escritorio\NewCompu\Compu 04-02-2016\Compu 04-01-2016\Compu\obj\Debug\Compu.csprojResolveAssemblyReference.cache
+D:\Bladd-PC\Escritorio\NewCompu\Compu 04-02-2016\Compu 04-01-2016\Compu\obj\Debug\Compu.Form1.resources
+D:\Bladd-PC\Escritorio\NewCompu\Compu 04-02-2016\Compu 04-01-2016\Compu\obj\Debug\Compu.Properties.Resources.resources
+D:\Bladd-PC\Escritorio\NewCompu\Compu 04-02-2016\Compu 04-01-2016\Compu\obj\Debug\Compu.csproj.GenerateResource.Cache

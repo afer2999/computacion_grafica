@@ -1,0 +1,180 @@
+c:\users\david vargas\documents\visual studio 2012\Projects\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+c:\users\david vargas\documents\visual studio 2012\Projects\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe
+c:\users\david vargas\documents\visual studio 2012\Projects\Grupo_5\Grupo_5\bin\Debug\Grupo_5.pdb
+c:\users\david vargas\documents\visual studio 2012\Projects\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+c:\users\david vargas\documents\visual studio 2012\Projects\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+c:\users\david vargas\documents\visual studio 2012\Projects\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+c:\users\david vargas\documents\visual studio 2012\Projects\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+c:\users\david vargas\documents\visual studio 2012\Projects\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+c:\users\david vargas\documents\visual studio 2012\Projects\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+I:\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+I:\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+I:\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+I:\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe
+I:\Grupo_5\Grupo_5\bin\Debug\Grupo_5.pdb
+I:\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+I:\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+I:\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+I:\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+D:\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+D:\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+D:\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+D:\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+D:\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+D:\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+D:\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+D:\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe
+D:\Grupo_5\Grupo_5\bin\Debug\Grupo_5.pdb
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5\Grupo_5\Grupo_5\bin\Debug\Grupo_5.pdb
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+D:\Grupo_5\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+D:\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+D:\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+D:\Grupo_5\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe
+D:\Grupo_5\Grupo_5\Grupo_5\bin\Debug\Grupo_5.pdb
+D:\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+D:\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+D:\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+D:\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+C:\Users\Lizz\Desktop\Grupo_5\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+C:\Users\Lizz\Desktop\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+C:\Users\Lizz\Desktop\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+C:\Users\Lizz\Desktop\Grupo_5\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe
+C:\Users\Lizz\Desktop\Grupo_5\Grupo_5\Grupo_5\bin\Debug\Grupo_5.pdb
+C:\Users\Lizz\Desktop\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+C:\Users\Lizz\Desktop\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+C:\Users\Lizz\Desktop\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+C:\Users\Lizz\Desktop\Grupo_5\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5Completo\Grupo_5Completo\Grupo_5\bin\Debug\Grupo_5.exe.config
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.exe
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.pdb
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5Completo\Grupo_5Completo\Grupo_5\bin\Debug\Grupo_5.exe
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5Completo\Grupo_5Completo\Grupo_5\bin\Debug\Grupo_5.pdb
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios\Grupo_5Completo\Grupo_5Completo\Grupo_5\bin\Debug\Grupo_5.exe.config
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.exe
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.pdb
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios\Grupo_5Completo\Grupo_5Completo\Grupo_5\bin\Debug\Grupo_5.exe
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios\Grupo_5Completo\Grupo_5Completo\Grupo_5\bin\Debug\Grupo_5.pdb
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios Hechos\Grupo_5Completo\Grupo_5Completo\Grupo_5\bin\Debug\Grupo_5.exe.config
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios Hechos\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.exe
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios Hechos\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.pdb
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios Hechos\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios Hechos\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios Hechos\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios Hechos\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios Hechos\Grupo_5Completo\Grupo_5Completo\Grupo_5\bin\Debug\Grupo_5.exe
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Ejercicios Hechos\Grupo_5Completo\Grupo_5Completo\Grupo_5\bin\Debug\Grupo_5.pdb
+C:\Users\Lizz\Downloads\Grupo_5Completo\Grupo_5Completo\Grupo_5\bin\Debug\Grupo_5.exe.config
+C:\Users\Lizz\Downloads\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.exe
+C:\Users\Lizz\Downloads\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.pdb
+C:\Users\Lizz\Downloads\Grupo_5Completo\Grupo_5Completo\Grupo_5\bin\Debug\Grupo_5.exe
+C:\Users\Lizz\Downloads\Grupo_5Completo\Grupo_5Completo\Grupo_5\bin\Debug\Grupo_5.pdb
+C:\Users\Lizz\Downloads\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+C:\Users\Lizz\Downloads\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+C:\Users\Lizz\Downloads\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+C:\Users\Lizz\Downloads\Grupo_5Completo\Grupo_5Completo\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+C:\Users\mrlov_000\Desktop\Compu Grafica\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+C:\Users\mrlov_000\Desktop\Compu Grafica\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+C:\Users\mrlov_000\Desktop\Compu Grafica\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+C:\Users\mrlov_000\Desktop\Compu Grafica\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe
+C:\Users\mrlov_000\Desktop\Compu Grafica\Grupo_5\Grupo_5\bin\Debug\Grupo_5.pdb
+C:\Users\mrlov_000\Desktop\Compu Grafica\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+C:\Users\mrlov_000\Desktop\Compu Grafica\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+C:\Users\mrlov_000\Desktop\Compu Grafica\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+C:\Users\mrlov_000\Desktop\Compu Grafica\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.pdb
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+D:\ESPOCH DAVID\NOVENO\COMPUTACION GRAFICA\PARCIAL 1\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+C:\Users\Lizz\Desktop\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+C:\Users\Lizz\Desktop\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+C:\Users\Lizz\Desktop\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+C:\Users\Lizz\Desktop\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe
+C:\Users\Lizz\Desktop\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.pdb
+C:\Users\Lizz\Desktop\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+C:\Users\Lizz\Desktop\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+C:\Users\Lizz\Desktop\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+C:\Users\Lizz\Desktop\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+F:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+F:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+F:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+F:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe
+F:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.pdb
+F:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+F:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+F:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+F:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+H:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+H:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+H:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+H:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+H:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+H:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+H:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+H:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe
+H:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.pdb
+D:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+D:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+D:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+D:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+D:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+D:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+D:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+D:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe
+D:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.pdb
+C:\Users\mrlov_000\Desktop\Compu Grafica\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+C:\Users\mrlov_000\Desktop\Compu Grafica\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+C:\Users\mrlov_000\Desktop\Compu Grafica\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+Z:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+Z:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+Z:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+Z:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe
+Z:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\bin\Debug\Grupo_5.pdb
+Z:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+Z:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+Z:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+Z:\Grupo_5-v0.2\Grupo_5   v0.2\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+C:\Users\mrlov_000\Desktop\ROBERTH ESCRITORIO\Compu Grafica\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe.config
+C:\Users\mrlov_000\Desktop\ROBERTH ESCRITORIO\Compu Grafica\Grupo_5\Grupo_5\obj\Debug\Grupo_5.exe
+C:\Users\mrlov_000\Desktop\ROBERTH ESCRITORIO\Compu Grafica\Grupo_5\Grupo_5\obj\Debug\Grupo_5.pdb
+C:\Users\mrlov_000\Desktop\ROBERTH ESCRITORIO\Compu Grafica\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+C:\Users\mrlov_000\Desktop\ROBERTH ESCRITORIO\Compu Grafica\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+C:\Users\mrlov_000\Desktop\ROBERTH ESCRITORIO\Compu Grafica\Grupo_5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+C:\Users\mrlov_000\Desktop\ROBERTH ESCRITORIO\Compu Grafica\Grupo_5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+C:\Users\mrlov_000\Desktop\ROBERTH ESCRITORIO\Compu Grafica\Grupo_5\Grupo_5\bin\Debug\Grupo_5.exe
+C:\Users\mrlov_000\Desktop\ROBERTH ESCRITORIO\Compu Grafica\Grupo_5\Grupo_5\bin\Debug\Grupo_5.pdb
+C:\Users\mrlov_000\Desktop\Compu\Grupo_5\bin\Debug\Grupo_5.exe.config
+C:\Users\mrlov_000\Desktop\Compu\Grupo_5\obj\Debug\Grupo_5.exe
+C:\Users\mrlov_000\Desktop\Compu\Grupo_5\obj\Debug\Grupo_5.pdb
+C:\Users\mrlov_000\Desktop\Compu_G5\Grupo_5\bin\Debug\Grupo_5.exe.config
+C:\Users\mrlov_000\Desktop\Compu_G5\Grupo_5\obj\Debug\Grupo_5.exe
+C:\Users\mrlov_000\Desktop\Compu_G5\Grupo_5\obj\Debug\Grupo_5.pdb
+C:\Users\mrlov_000\Desktop\Compu_G5\Grupo_5\bin\Debug\Grupo_5.exe
+C:\Users\mrlov_000\Desktop\Compu_G5\Grupo_5\bin\Debug\Grupo_5.pdb
+C:\Users\mrlov_000\Desktop\Compu_G5\Grupo_5\obj\Debug\Grupo_5.csprojResolveAssemblyReference.cache
+C:\Users\mrlov_000\Desktop\Compu_G5\Grupo_5\obj\Debug\Grupo_5.Form1.resources
+C:\Users\mrlov_000\Desktop\Compu_G5\Grupo_5\obj\Debug\Grupo_5.Properties.Resources.resources
+C:\Users\mrlov_000\Desktop\Compu_G5\Grupo_5\obj\Debug\Grupo_5.csproj.GenerateResource.Cache
+C:\Users\mrlov_000\Desktop\Noveno\All Compu\Compu_G5\Grupo_5\bin\Debug\Grupo_5.exe.config
+C:\Users\mrlov_000\Desktop\Noveno\All Compu\Compu_G5\Grupo_5\obj\Debug\Grupo_5.exe
+C:\Users\mrlov_000\Desktop\Noveno\All Compu\Compu_G5\Grupo_5\obj\Debug\Grupo_5.pdb
